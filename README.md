@@ -1,8 +1,11 @@
 # PythonInstallExtract
 Extracted from Official Installer（从官方安装包提取）
-python便携包全版本2.7 3.4-3.13
 
-本项目作为https://github.com/ashi876/Laxuhub的子项目提供win平台64位python便携版本。也可随意自用。
+python官方的embeddable版本适合做嵌入式开发，所以标准库不全，包管理工具也要手动。
+所以做了官方提取版给喜欢便携的朋友以及自用作为https://github.com/ashi876/Laxuhub的子项目提供win平台64位python便携版
+
+提供版本: python便携包版本2.7 3.4-3.13
+
 
 # 说明:
 
