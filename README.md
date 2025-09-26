@@ -1,4 +1,4 @@
-# PythonInstallExtract
+# PythonInstallExtract windows
 Extracted from Official Installer（从官方安装包提取）
 
 python官方的embeddable版本适合做嵌入式开发，所以标准库不全，包管理工具也要手动。
